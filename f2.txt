@@ -1,3 +1,5 @@
 this is the file f2.txt of master
 
 this is the updated file f2.txt
+
+this is the updated file f2.txt in the release branch (step 12)
